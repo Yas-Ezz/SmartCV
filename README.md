@@ -3,7 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/iamamanporwal/resume-ranker)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
-An interactive web application that analyzes resumes based on a job description using natural language processing techniques. https://www.youtube.com/watch?v=0eo_5oyW11o&t=1s
 
 ## :rocket: Features
 
@@ -17,24 +16,19 @@ An interactive web application that analyzes resumes based on a job description 
 ## :wrench: Setup and Usage
 
 1. Clone the repository:
-   ```sh
-   https://github.com/iamamanporwal/resume-ranker.git
-   ```
+
 
 2. Navigate to the project directory:
-   ```sh
    cd resume-analyzer
-   ```
+   
 
 3. Install dependencies (Install the latest libraries instead of the specific ones mentioned in the txt file):
-   ```sh
    pip install -r requirements.txt
-   ```
+   
 
 4. Run the Flask app:
-   ```sh
    python app.py
-   ```
+
 
 5. Access the app in your web browser at `http://localhost:5000`.
 
@@ -63,9 +57,9 @@ This project was inspired by the desire to create an interactive tool for HR pro
 
 ## :mailbox: Contact
 
-Have questions or feedback? Feel free to reach out via [aman07porwal@gmail.com](mailto:aman07porwal@gmail.com).
+Have questions or feedback? Feel free to reach out via [ilyasezzahrioui@gmail.com](mailto:ilyasezzahriou@gmail.com).
 
 ##
-Developed with :heart: by Aman Porwal
+Developed with :heart: by Ilyas.
 
 
