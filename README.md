@@ -10,8 +10,8 @@
 - Process resumes to extract names, emails, and text content.
 - Calculate the similarity between the job description and each resume.
 - Rank resumes based on similarity percentage.
-- Download the ranked resumes in a CSV file. (Fixed by @atiumcache)
-- Dark Mode Contributed by @hbalickgoodman 
+- Download the ranked resumes in a CSV file. 
+- Dark Mode Contributed by SBA3 "ILYAS"
 
 ## :wrench: Setup and Usage
 
